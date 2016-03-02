@@ -1,0 +1,9 @@
+C:\Users\Fabrizio\Desktop\CDC\CDC\CDC\bin\Debug\CDC.exe.config
+C:\Users\Fabrizio\Desktop\CDC\CDC\CDC\bin\Debug\CDC.exe
+C:\Users\Fabrizio\Desktop\CDC\CDC\CDC\bin\Debug\CDC.pdb
+C:\Users\Fabrizio\Desktop\CDC\CDC\CDC\obj\Debug\CDC.csprojResolveAssemblyReference.cache
+C:\Users\Fabrizio\Desktop\CDC\CDC\CDC\obj\Debug\CDC.frmCDC.resources
+C:\Users\Fabrizio\Desktop\CDC\CDC\CDC\obj\Debug\CDC.Properties.Resources.resources
+C:\Users\Fabrizio\Desktop\CDC\CDC\CDC\obj\Debug\CDC.csproj.GenerateResource.Cache
+C:\Users\Fabrizio\Desktop\CDC\CDC\CDC\obj\Debug\CDC.exe
+C:\Users\Fabrizio\Desktop\CDC\CDC\CDC\obj\Debug\CDC.pdb
